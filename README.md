@@ -1,10 +1,26 @@
+# roadmap
+
+1. support blog/article url extract text contents
+2. support jianying extract srt and txt from video or audio files
+3. support jianying gen audio from srt
+4. support feishu writing go rewrite text contents
+5. support quickcreator gen text contents
+6. support tts :feishu genshinsound
+7. remove original hard subtitle with wechat image translate or screencut
+8. support douyin houtai  content check
+9. support jianying cut video to scenes,images
+10. convert video to stick figure cartoon
+11. 
+
+# Screenshots
+
 ![1693644496977](https://github.com/StartHua/AI-/assets/22284244/0c10b136-1b7a-4493-bf91-0b5b64c59cb1)
 ![image](https://github.com/StartHua/AI-/assets/22284244/11118dea-0da3-4bdc-8f3c-05ac9977a8cb)
 ![1693644647025](https://github.com/StartHua/AI-/assets/22284244/eb67e901-eafa-46f6-a41a-84214e1a4ddc)
 
 一.开发此项目目的，为了短视频创作自动化，也是一次ai实用化,功能基本已经完成,有能力的自行修改！python！
 
-二.项目支持youtobe,titko,抖音，bilibili视频下载（youtobe，tiko需要翻墙注意不要全局，因为sd Fooocus 会报错）.
+二.项目支持youtobe,titkok,抖音，bilibili视频下载（youtobe，tiko需要翻墙注意不要全局，因为sd Fooocus 会报错）.
 
 三.自动化项目逻辑原理：
     开启二次创作：

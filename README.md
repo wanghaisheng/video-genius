@@ -12,6 +12,14 @@
 10. convert video to stick figure cartoon
 11. integrate with https://github.com/wanghaisheng/Intel-One, can we gen a video for anyone you know his name titled  your immortal internet memory
 
+## video editing
+
+https://github.com/wanghaisheng/FFnorm
+
+
+## vieo making
+
+
 # Screenshots
 
 ![1693644496977](https://github.com/StartHua/AI-/assets/22284244/0c10b136-1b7a-4493-bf91-0b5b64c59cb1)

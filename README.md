@@ -13,13 +13,27 @@
 11. integrate with https://github.com/wanghaisheng/Intel-One, can we gen a video for anyone you know his name titled  your immortal internet memory
 
 
+## assets
+
+https://github.com/yihong0618/BingImageCreator
+
 
 ## video editing
 
 https://github.com/wanghaisheng/FFnorm
 
+https://github.com/wanghaisheng/video-helper
+
 
 ## vieo making
+
+https://github.com/wanghaisheng/random_otaku_dance_generator
+
+https://github.com/wanghaisheng/ffmpeg-wasm-canvas-demo
+
+https://github.com/wanghaisheng/reddit-video-creator
+
+
 
 
 # Screenshots

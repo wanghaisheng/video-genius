@@ -17,12 +17,76 @@
 
 https://github.com/yihong0618/BingImageCreator
 
+https://github.com/wanghaisheng/github-action-murrtube-downloader
+
+
+https://github.com/wanghaisheng/github-action-m3u8-downloader
+
+https://github.com/wanghaisheng/FrameSlice
+
+https://github.com/wanghaisheng/XHS_Downloader
+
+https://github.com/wanghaisheng/wasm-excel
+
+https://github.com/wanghaisheng/MediaCrawler
+
+https://github.com/wanghaisheng/crucible
+
+https://github.com/wanghaisheng/download-video-in-browser
+
+https://github.com/wanghaisheng/segment-anything-services
+
+https://github.com/wanghaisheng/fansly-downloader
+
+https://github.com/wanghaisheng/photon
+
+https://github.com/wanghaisheng/VN-ChatGPT-Translator
+
+
+https://github.com/wanghaisheng/TiktokaStudioDownload
+
+https://github.com/wanghaisheng/wechat-article-extractor
+
+https://github.com/wanghaisheng/pinterest-downloader
+
+https://github.com/wanghaisheng/newspaper
+
+https://github.com/wanghaisheng/imgprobox
+
+https://github.com/wanghaisheng/vidzit-dl
+
+https://github.com/wanghaisheng/wasm-thumbnail
+
+https://github.com/wanghaisheng/KeywordSpider_pictures_videos
+
+
+
 
 ## video editing
 
 https://github.com/wanghaisheng/FFnorm
 
 https://github.com/wanghaisheng/video-helper
+
+https://github.com/wanghaisheng/Video-Editor-WASM
+
+https://github.com/wanghaisheng/ffmpeg-web
+
+https://github.com/wanghaisheng/video2srt
+
+https://github.com/wanghaisheng/CcClip
+
+https://github.com/wanghaisheng/Image-steganography
+https://github.com/wanghaisheng/video-tools
+
+https://github.com/wanghaisheng/video-image-assets-copyright-protect
+
+https://github.com/wanghaisheng/viedo_transpote_using_ffmpeg
+
+https://github.com/wanghaisheng/convert-video-to-youtube-format
+
+https://github.com/wanghaisheng/silence-remover
+
 
 
 ## vieo making
@@ -33,8 +97,53 @@ https://github.com/wanghaisheng/ffmpeg-wasm-canvas-demo
 
 https://github.com/wanghaisheng/reddit-video-creator
 
+https://github.com/wanghaisheng/homework
+
+https://github.com/wanghaisheng/remotion-template-audiogram
+
+https://github.com/wanghaisheng/legen
+
+https://github.com/wanghaisheng/LiveRecorder
+https://github.com/wanghaisheng/stash-compilation-maker
+
+https://github.com/wanghaisheng/paper2video
 
 
+
+screen recording video
+https://github.com/wanghaisheng/flybirds-gpt
+
+https://github.com/wanghaisheng/sync-youtube-to-podcasts
+
+https://github.com/wanghaisheng/WeChatVideoDownloader
+
+https://github.com/wanghaisheng/game-shorts-app
+
+https://github.com/wanghaisheng/pdf2webm
+
+https://github.com/wanghaisheng/goodread-review-to-video
+.
+https://github.com/wanghaisheng/StoryStorm
+
+https://github.com/wanghaisheng/make-video-no-code
+
+https://github.com/wanghaisheng/url2video-pdf
+
+
+
+https://github.com/wanghaisheng/auto-branding-shopify-social-media-publish-tool
+
+https://github.com/wanghaisheng/auto-post-twitter-account
+
+https://github.com/wanghaisheng/xiaohongshu
+
+https://github.com/wanghaisheng/chrome-plugin-mp
+
+https://github.com/wanghaisheng/Twitter_amazon_affiliate
+
+https://github.com/wanghaisheng/auto-upload-book-videos
+
+https://github.com/wanghaisheng/uploadmyspot-auto-upload
 
 # Screenshots
 

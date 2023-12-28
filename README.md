@@ -1,3 +1,7 @@
+https://github.com/wanghaisheng/game-shorts-app
+
+https://github.com/xAIdrian/Content-Machine
+
 # roadmap
 
 1. support blog/article url extract text contents

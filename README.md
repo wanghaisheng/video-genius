@@ -1,3 +1,6 @@
+https://github.com/harry0703/MoneyPrinterTurbo/issues
+需求收集
+
 https://github.com/wanghaisheng/game-shorts-app
 
 https://github.com/xAIdrian/Content-Machine
